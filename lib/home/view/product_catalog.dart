@@ -2,6 +2,8 @@ import 'package:blimp/model/Products.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
+import '../../products/view/product_view.dart';
+
 class ProductCatalog extends StatefulWidget {
   @override
   State<StatefulWidget> createState() {
@@ -36,7 +38,12 @@ class _ProductCatalog extends State<ProductCatalog> {
           Container(
             padding: const EdgeInsets.all(8),
             color: Colors.teal[100],
-            child: const Text("Product 1"),
+            child:  ElevatedButton(
+                onPressed: () {
+                  Navigator.of(context).push<void>(ProductView.route());
+                },
+                child: Text("Product 1")),
+
           ),
           Container(
             padding: const EdgeInsets.all(8),

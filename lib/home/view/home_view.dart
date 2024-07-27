@@ -24,6 +24,7 @@ class _HomeView extends State<HomeView> {
 
   @override
   Widget build(BuildContext context) {
+
     List<BottomNavigationBarItem> bottomNavItems = const <BottomNavigationBarItem>[
       BottomNavigationBarItem(icon: Icon(Icons.home), label: 'Home'),
       BottomNavigationBarItem(icon: Icon(Icons.history),label: 'History',),
