@@ -1,3 +1,0 @@
-Target dependency graph (2 targets)
-Target 'blimp' in project 'blimp' (no dependencies)
-Target 'blimp' in project 'blimp' (no dependencies)

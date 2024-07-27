@@ -16,6 +16,11 @@ struct ContentView: View {
                 .tabItem{
                     Label("Home", systemImage: "house")
                 }
+            
+            MyProductView()
+                .tabItem{
+                    Label("My Item", systemImage: "cube.fill")
+                }
                 
             ProfileView()
                 .tabItem() {

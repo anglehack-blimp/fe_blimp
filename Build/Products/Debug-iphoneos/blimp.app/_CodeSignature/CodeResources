@@ -24,6 +24,18 @@
 		<data>
 		EMP6PSzoleyF30svkPvgyLowu3Y=
 		</data>
+		<key>fender_stratocaster.usdz</key>
+		<data>
+		C8Fd/UaRyTx7EFFPJEuY+XrpwLQ=
+		</data>
+		<key>sneaker_airforce.usdz</key>
+		<data>
+		m1LWWewdrB4wCNPiri4suwU2x5g=
+		</data>
+		<key>sneaker_pegasustrail.usdz</key>
+		<data>
+		6OUSr8xlDFCWCC5l1sftNxmchYc=
+		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
@@ -46,6 +58,27 @@
 			<key>hash2</key>
 			<data>
 			5tZDlQPWSnT/URPwflPIphM3w3TJWkOwA/PBhAnjDQc=
+			</data>
+		</dict>
+		<key>fender_stratocaster.usdz</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MC8kHNETSODK+X0xH3pq0VISfLuQa7at6c4cwBxZHik=
+			</data>
+		</dict>
+		<key>sneaker_airforce.usdz</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eyYUWRX5hBOSYasGo0i0nzsus97RVTp03R41IyWSpvY=
+			</data>
+		</dict>
+		<key>sneaker_pegasustrail.usdz</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gGysO+/x+iMOOnZNd/Wnqelshn4EzlsgkYCZoAj5w6I=
 			</data>
 		</dict>
 	</dict>

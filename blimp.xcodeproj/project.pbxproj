@@ -19,6 +19,13 @@
 		51703ACE2C557335008D476E /* ProductAr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51703ACD2C557334008D476E /* ProductAr.swift */; };
 		51703AD12C5575D1008D476E /* FocusEntity in Frameworks */ = {isa = PBXBuildFile; productRef = 51703AD02C5575D1008D476E /* FocusEntity */; };
 		51703AD32C557750008D476E /* chair_swan.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 51703AD22C557750008D476E /* chair_swan.usdz */; };
+		51703AD72C5580DC008D476E /* fender_stratocaster.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 51703AD42C5580DC008D476E /* fender_stratocaster.usdz */; };
+		51703AD82C5580DC008D476E /* sneaker_pegasustrail.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 51703AD52C5580DC008D476E /* sneaker_pegasustrail.usdz */; };
+		51703AD92C5580DC008D476E /* sneaker_airforce.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 51703AD62C5580DC008D476E /* sneaker_airforce.usdz */; };
+		51703ADB2C558274008D476E /* MyProductView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51703ADA2C558274008D476E /* MyProductView.swift */; };
+		51703ADD2C5582F1008D476E /* Product.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51703ADC2C5582F1008D476E /* Product.swift */; };
+		51703ADF2C558329008D476E /* ProductCategory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51703ADE2C558329008D476E /* ProductCategory.swift */; };
+		51703AE12C558786008D476E /* ProductDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51703AE02C558786008D476E /* ProductDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -35,6 +42,13 @@
 		51703ACB2C556C69008D476E /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
 		51703ACD2C557334008D476E /* ProductAr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductAr.swift; sourceTree = "<group>"; };
 		51703AD22C557750008D476E /* chair_swan.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = chair_swan.usdz; path = ../../../../Downloads/chair_swan.usdz; sourceTree = "<group>"; };
+		51703AD42C5580DC008D476E /* fender_stratocaster.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = fender_stratocaster.usdz; path = ../../../../Downloads/fender_stratocaster.usdz; sourceTree = "<group>"; };
+		51703AD52C5580DC008D476E /* sneaker_pegasustrail.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = sneaker_pegasustrail.usdz; path = ../../../../Downloads/sneaker_pegasustrail.usdz; sourceTree = "<group>"; };
+		51703AD62C5580DC008D476E /* sneaker_airforce.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = sneaker_airforce.usdz; path = ../../../../Downloads/sneaker_airforce.usdz; sourceTree = "<group>"; };
+		51703ADA2C558274008D476E /* MyProductView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyProductView.swift; sourceTree = "<group>"; };
+		51703ADC2C5582F1008D476E /* Product.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Product.swift; sourceTree = "<group>"; };
+		51703ADE2C558329008D476E /* ProductCategory.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductCategory.swift; sourceTree = "<group>"; };
+		51703AE02C558786008D476E /* ProductDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,12 +88,19 @@
 				51703AA22C5560BA008D476E /* blimp.entitlements */,
 				51703A9F2C5560BA008D476E /* Preview Content */,
 				51703AA82C556360008D476E /* Menu.swift */,
+				51703AD42C5580DC008D476E /* fender_stratocaster.usdz */,
+				51703AD62C5580DC008D476E /* sneaker_airforce.usdz */,
+				51703AD52C5580DC008D476E /* sneaker_pegasustrail.usdz */,
 				51703AD22C557750008D476E /* chair_swan.usdz */,
 				51703AAA2C556452008D476E /* StoreSummary.swift */,
 				51703AAC2C5565BD008D476E /* SearchView.swift */,
 				51703AC92C556AB7008D476E /* HomeView.swift */,
 				51703ACB2C556C69008D476E /* ProfileView.swift */,
 				51703ACD2C557334008D476E /* ProductAr.swift */,
+				51703ADA2C558274008D476E /* MyProductView.swift */,
+				51703ADC2C5582F1008D476E /* Product.swift */,
+				51703ADE2C558329008D476E /* ProductCategory.swift */,
+				51703AE02C558786008D476E /* ProductDetailView.swift */,
 			);
 			path = blimp;
 			sourceTree = "<group>";
@@ -157,7 +178,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				51703AD32C557750008D476E /* chair_swan.usdz in Resources */,
+				51703AD82C5580DC008D476E /* sneaker_pegasustrail.usdz in Resources */,
 				51703AA12C5560BA008D476E /* Preview Assets.xcassets in Resources */,
+				51703AD72C5580DC008D476E /* fender_stratocaster.usdz in Resources */,
+				51703AD92C5580DC008D476E /* sneaker_airforce.usdz in Resources */,
 				51703A9E2C5560BA008D476E /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -169,12 +193,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51703ADB2C558274008D476E /* MyProductView.swift in Sources */,
 				51703AAD2C5565BD008D476E /* SearchView.swift in Sources */,
 				51703AAB2C556452008D476E /* StoreSummary.swift in Sources */,
 				51703AA92C556360008D476E /* Menu.swift in Sources */,
 				51703A9C2C5560B7008D476E /* ContentView.swift in Sources */,
+				51703AE12C558786008D476E /* ProductDetailView.swift in Sources */,
 				51703ACA2C556AB7008D476E /* HomeView.swift in Sources */,
 				51703ACC2C556C69008D476E /* ProfileView.swift in Sources */,
+				51703ADD2C5582F1008D476E /* Product.swift in Sources */,
+				51703ADF2C558329008D476E /* ProductCategory.swift in Sources */,
 				51703ACE2C557335008D476E /* ProductAr.swift in Sources */,
 				51703A9A2C5560B7008D476E /* blimpApp.swift in Sources */,
 			);

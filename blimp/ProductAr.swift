@@ -19,14 +19,14 @@ struct ProductAr : View {
                 Button(action: {
                     ActionManager.shared.actionStream.send(.place3DModel)
                 }, label: {
-                    Text("Place 3D Model")
+                    Text("Place Product")
                         .font(.headline)
                         .foregroundColor(.white)
                         .padding()
                         .background(Color.blue)
                         .cornerRadius(10)
                 })
-                .padding(.bottom, 50)
+                .padding(.bottom, 10)
             }
         }
 }

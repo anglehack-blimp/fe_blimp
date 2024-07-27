@@ -119,7 +119,6 @@ struct HomeView: View {
                         TextField("Search...", text: $searchText)
                             .frame(minWidth: UIScreen.main.bounds.size.width-130, maxWidth: .infinity, minHeight: 40)
                             
-                        
                         NavigationLink("",destination: SearchView(), isActive: $isSearching)
                     }
                 }

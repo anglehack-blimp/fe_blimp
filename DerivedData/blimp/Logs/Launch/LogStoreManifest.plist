@@ -6,6 +6,67 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
+		<key>0743FC52-99E4-495F-9760-1FEAEDBD0135</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>11E9FEC3-C2E6-4931-8CB4-A1B88251B8F1</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-blimp-2024.07.28_02-55-24-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>blimp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>blimp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run blimp</string>
+			<key>timeStartedRecording</key>
+			<real>743802924.20529795</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run blimp</string>
+			<key>uniqueIdentifier</key>
+			<string>0743FC52-99E4-495F-9760-1FEAEDBD0135</string>
+		</dict>
 		<key>0DA17608-A8B6-4F30-9E95-15864D8BECF0</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -311,6 +372,67 @@
 			<key>uniqueIdentifier</key>
 			<string>25634319-9537-452A-B946-20904E9E0153</string>
 		</dict>
+		<key>2A20739A-E260-4F0F-8537-1C5B1E4E4800</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>A1066AB0-8960-4434-ACB4-C13228667F73</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-blimp-2024.07.28_02-48-05-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>blimp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>blimp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run blimp</string>
+			<key>timeStartedRecording</key>
+			<real>743802485.48573303</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run blimp</string>
+			<key>uniqueIdentifier</key>
+			<string>2A20739A-E260-4F0F-8537-1C5B1E4E4800</string>
+		</dict>
 		<key>2EA031F3-5772-4E8C-8833-695EBE1E9215</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -371,6 +493,67 @@
 			<string>Run blimp</string>
 			<key>uniqueIdentifier</key>
 			<string>2EA031F3-5772-4E8C-8833-695EBE1E9215</string>
+		</dict>
+		<key>2EAE164B-A5DC-4AE9-8B9E-7DBFBC584BAB</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>7C9028CE-E354-4FDB-8EC2-BABE96CAA9A3</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-blimp-2024.07.28_02-49-34-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>blimp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>blimp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run blimp</string>
+			<key>timeStartedRecording</key>
+			<real>743802574.70146704</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run blimp</string>
+			<key>uniqueIdentifier</key>
+			<string>2EAE164B-A5DC-4AE9-8B9E-7DBFBC584BAB</string>
 		</dict>
 		<key>32718E03-ABAD-461F-9C7D-9C528E8A0CFD</key>
 		<dict>
@@ -921,6 +1104,67 @@
 			<key>uniqueIdentifier</key>
 			<string>4503B0B0-411F-4239-8187-CFE38A4458C9</string>
 		</dict>
+		<key>499B70CD-246E-429F-BB24-AC23A24676B8</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>0F3121F8-96D5-48C6-9F18-08A4B129C670</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-blimp-2024.07.28_02-43-26-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>blimp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>blimp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run blimp</string>
+			<key>timeStartedRecording</key>
+			<real>743802206.09746206</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run blimp</string>
+			<key>uniqueIdentifier</key>
+			<string>499B70CD-246E-429F-BB24-AC23A24676B8</string>
+		</dict>
 		<key>529B946A-5388-4E39-8679-ADB512C3EF44</key>
 		<dict>
 			<key>auxiliaryLogUniqueIdentifier</key>
@@ -1164,6 +1408,67 @@
 			<string>Run blimp</string>
 			<key>uniqueIdentifier</key>
 			<string>709094AB-EB3B-4CBF-8490-4F9A2182EA80</string>
+		</dict>
+		<key>73A21029-6523-41DC-88B2-E13D7FF88813</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>44BF5871-80B4-44B9-AC01-9FEDC0DFC6C9</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-blimp-2024.07.28_01-43-30-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>blimp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>blimp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run blimp</string>
+			<key>timeStartedRecording</key>
+			<real>743798610.83964097</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run blimp</string>
+			<key>uniqueIdentifier</key>
+			<string>73A21029-6523-41DC-88B2-E13D7FF88813</string>
 		</dict>
 		<key>84EA1454-F0C7-4095-B7AD-27555A0957FD</key>
 		<dict>
@@ -2018,6 +2323,67 @@
 			<string>Run blimp</string>
 			<key>uniqueIdentifier</key>
 			<string>DC7AAE58-1F34-4943-A7EE-4E84C7B2DFA3</string>
+		</dict>
+		<key>DD8FA472-87CB-4042-B519-875A02BF7C4D</key>
+		<dict>
+			<key>auxiliaryLogUniqueIdentifier</key>
+			<string>3A1494D8-E8C1-4335-ACB3-8B6E04504028</string>
+			<key>auxiliaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>className</key>
+			<string>IDESchemeActionsInvocationRecord</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>com.apple.dt.IDE.LaunchSchemeAction</string>
+			<key>fileName</key>
+			<string>Run-blimp-2024.07.28_02-51-02-+0700.xcresult</string>
+			<key>hasAuxiliaryLog</key>
+			<true/>
+			<key>hasConsoleLog</key>
+			<true/>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>1</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>blimp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>blimp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run blimp</string>
+			<key>timeStartedRecording</key>
+			<real>743802662.90625501</real>
+			<key>timeStoppedRecording</key>
+			<real>0.0</real>
+			<key>title</key>
+			<string>Run blimp</string>
+			<key>uniqueIdentifier</key>
+			<string>DD8FA472-87CB-4042-B519-875A02BF7C4D</string>
 		</dict>
 		<key>DFF51A0E-6E54-4477-BBC5-6B7D045A6A87</key>
 		<dict>
