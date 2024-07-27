@@ -16,6 +16,9 @@
 		51703AAD2C5565BD008D476E /* SearchView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51703AAC2C5565BD008D476E /* SearchView.swift */; };
 		51703ACA2C556AB7008D476E /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51703AC92C556AB7008D476E /* HomeView.swift */; };
 		51703ACC2C556C69008D476E /* ProfileView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51703ACB2C556C69008D476E /* ProfileView.swift */; };
+		51703ACE2C557335008D476E /* ProductAr.swift in Sources */ = {isa = PBXBuildFile; fileRef = 51703ACD2C557334008D476E /* ProductAr.swift */; };
+		51703AD12C5575D1008D476E /* FocusEntity in Frameworks */ = {isa = PBXBuildFile; productRef = 51703AD02C5575D1008D476E /* FocusEntity */; };
+		51703AD32C557750008D476E /* chair_swan.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 51703AD22C557750008D476E /* chair_swan.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +33,8 @@
 		51703AAC2C5565BD008D476E /* SearchView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchView.swift; sourceTree = "<group>"; };
 		51703AC92C556AB7008D476E /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 		51703ACB2C556C69008D476E /* ProfileView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileView.swift; sourceTree = "<group>"; };
+		51703ACD2C557334008D476E /* ProductAr.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProductAr.swift; sourceTree = "<group>"; };
+		51703AD22C557750008D476E /* chair_swan.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; name = chair_swan.usdz; path = ../../../../Downloads/chair_swan.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +42,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51703AD12C5575D1008D476E /* FocusEntity in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -68,10 +74,12 @@
 				51703AA22C5560BA008D476E /* blimp.entitlements */,
 				51703A9F2C5560BA008D476E /* Preview Content */,
 				51703AA82C556360008D476E /* Menu.swift */,
+				51703AD22C557750008D476E /* chair_swan.usdz */,
 				51703AAA2C556452008D476E /* StoreSummary.swift */,
 				51703AAC2C5565BD008D476E /* SearchView.swift */,
 				51703AC92C556AB7008D476E /* HomeView.swift */,
 				51703ACB2C556C69008D476E /* ProfileView.swift */,
+				51703ACD2C557334008D476E /* ProductAr.swift */,
 			);
 			path = blimp;
 			sourceTree = "<group>";
@@ -100,6 +108,9 @@
 			dependencies = (
 			);
 			name = blimp;
+			packageProductDependencies = (
+				51703AD02C5575D1008D476E /* FocusEntity */,
+			);
 			productName = blimp;
 			productReference = 51703A962C5560B7008D476E /* blimp.app */;
 			productType = "com.apple.product-type.application";
@@ -128,6 +139,9 @@
 				Base,
 			);
 			mainGroup = 51703A8D2C5560B7008D476E;
+			packageReferences = (
+				51703ACF2C5575D1008D476E /* XCRemoteSwiftPackageReference "FocusEntity" */,
+			);
 			productRefGroup = 51703A972C5560B7008D476E /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -142,6 +156,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				51703AD32C557750008D476E /* chair_swan.usdz in Resources */,
 				51703AA12C5560BA008D476E /* Preview Assets.xcassets in Resources */,
 				51703A9E2C5560BA008D476E /* Assets.xcassets in Resources */,
 			);
@@ -160,6 +175,7 @@
 				51703A9C2C5560B7008D476E /* ContentView.swift in Sources */,
 				51703ACA2C556AB7008D476E /* HomeView.swift in Sources */,
 				51703ACC2C556C69008D476E /* ProfileView.swift in Sources */,
+				51703ACE2C557335008D476E /* ProductAr.swift in Sources */,
 				51703A9A2C5560B7008D476E /* blimpApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -299,6 +315,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Recognize the surface";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -329,6 +346,7 @@
 				ENABLE_HARDENED_RUNTIME = YES;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_NSCameraUsageDescription = "Recognize the surface";
 				INFOPLIST_KEY_NSHumanReadableCopyright = "";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -367,6 +385,25 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		51703ACF2C5575D1008D476E /* XCRemoteSwiftPackageReference "FocusEntity" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/maxxfrazer/FocusEntity";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 2.5.1;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		51703AD02C5575D1008D476E /* FocusEntity */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 51703ACF2C5575D1008D476E /* XCRemoteSwiftPackageReference "FocusEntity" */;
+			productName = FocusEntity;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 51703A8E2C5560B7008D476E /* Project object */;
 }

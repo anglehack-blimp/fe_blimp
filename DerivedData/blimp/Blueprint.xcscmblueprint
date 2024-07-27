@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "FAF9AB4292AB3B45C997DA827B04124E372E579A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "FAF9AB4292AB3B45C997DA827B04124E372E579A" : 0,
+    "A12BC1253CE342DCD2BC08918611A33DCE17FFC5" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C9FA5A06-285F-47AB-BFE9-684956C4CF1B",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "FAF9AB4292AB3B45C997DA827B04124E372E579A" : "blimp\/",
+    "A12BC1253CE342DCD2BC08918611A33DCE17FFC5" : "blimp\/DerivedData\/blimp\/SourcePackages\/checkouts\/FocusEntity\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "blimp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "blimp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "\/Users\/ngonar\/Documents\/Apple\/blimp\/DerivedData\/blimp\/SourcePackages\/repositories\/FocusEntity-e0f49769",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "A12BC1253CE342DCD2BC08918611A33DCE17FFC5"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "git@github.com:anglehack-blimp\/fe_blimp.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "FAF9AB4292AB3B45C997DA827B04124E372E579A"
+    }
+  ]
+}

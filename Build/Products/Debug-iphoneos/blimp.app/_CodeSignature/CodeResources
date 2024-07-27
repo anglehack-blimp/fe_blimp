@@ -4,13 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>Assets.car</key>
+		<data>
+		ODqW2yK7UcxbsZRxJpSGcimA0Mk=
+		</data>
 		<key>Info.plist</key>
 		<data>
-		2+INddLqVFM0ePaIYbgyl/72Vsw=
+		Hdz4b2OSDWXTFUpxrNXHJAN3k2g=
 		</data>
 		<key>PkgInfo</key>
 		<data>
 		n57qDP4tZfLD1rCS43W0B4LQjzE=
+		</data>
+		<key>chair_swan.usdz</key>
+		<data>
+		STtOItAQrjl7hoF0/7PP/oD66/M=
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
@@ -19,6 +27,20 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>Assets.car</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			rBGTUk/S8z4DkoJ1tXPf5SzCpDjWvRjEpsl8GknjHMQ=
+			</data>
+		</dict>
+		<key>chair_swan.usdz</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZWy5DcKY6gybmaaM9U24wKZtUVSAT46TnLJtwLEwVqE=
+			</data>
+		</dict>
 		<key>embedded.mobileprovision</key>
 		<dict>
 			<key>hash2</key>

@@ -70,18 +70,19 @@ struct HomeView: View {
                                     }
                                     .padding(0)
                                     
+                                    
                                 }
                                 .padding(0)
                                 .background(Color.accentColor.opacity(0.1))
                                 .cornerRadius(8)
-                                .frame(height:150)
+                                .frame(height:120)
     
                             }
                         }
                     }
                 }
                 .padding(0)
-                .frame(height: 150)
+                .frame(height: 120)
                 
                 
                 ScrollView {
@@ -89,7 +90,7 @@ struct HomeView: View {
                         
                             ForEach (menus) { menu in
                                 
-                                
+                                NavigationLink(destination: ProductAr()) {
                                     VStack(alignment: .leading) {
                                         ZStack(alignment: .top) {
                                             Image(systemName: menu.logo)
@@ -104,8 +105,7 @@ struct HomeView: View {
                                         }
                                         Text(menu.name)
                                     }
-                                
-                                
+                                }
                             }
                     }
                 }
@@ -118,6 +118,7 @@ struct HomeView: View {
                     HStack {
                         TextField("Search...", text: $searchText)
                             .frame(minWidth: UIScreen.main.bounds.size.width-130, maxWidth: .infinity, minHeight: 40)
+                            
                         
                         NavigationLink("",destination: SearchView(), isActive: $isSearching)
                     }
@@ -134,7 +135,7 @@ struct HomeView: View {
                 }
             }
         }
-        .padding()
+        .padding(0)
     }
 }
 

@@ -3,5 +3,9 @@
 <plist version="1.0">
 <array>
 	<string>SwiftUI</string>
+	<string>FocusEntity</string>
+	<string>RealityKit</string>
+	<string>ARKit</string>
+	<string>Combine</string>
 </array>
 </plist>

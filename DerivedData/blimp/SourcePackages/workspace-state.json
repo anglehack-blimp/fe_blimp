@@ -1,0 +1,27 @@
+{
+  "object" : {
+    "artifacts" : [
+
+    ],
+    "dependencies" : [
+      {
+        "basedOn" : null,
+        "packageRef" : {
+          "identity" : "focusentity",
+          "kind" : "remoteSourceControl",
+          "location" : "https://github.com/maxxfrazer/FocusEntity",
+          "name" : "FocusEntity"
+        },
+        "state" : {
+          "checkoutState" : {
+            "revision" : "5fa521172e447cbfa8c2fc1d6602d9d6bed202c7",
+            "version" : "2.5.1"
+          },
+          "name" : "sourceControlCheckout"
+        },
+        "subpath" : "FocusEntity"
+      }
+    ]
+  },
+  "version" : 6
+}
