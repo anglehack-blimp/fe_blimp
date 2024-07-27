@@ -1,0 +1,59 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "252747200ba9cf79977dca9c0591bed9ee271b8567daadb602e8821def05fce0"
+    }
+  ],
+  "containerPath" : "/Users/ngonar/Documents/Apple/blimp/blimp.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx14.5",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/ngonar/Documents/Apple/blimp/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/ngonar/Documents/Apple/blimp/Build/Products",
+      "derivedDataPath" : "/Users/ngonar/Documents/Apple/blimp/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/ngonar/Documents/Apple/blimp/DerivedData/blimp/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/ngonar/Documents/Apple/blimp/DerivedData/blimp/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/ngonar/Documents/Apple/blimp/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "DSTROOT" : "/Users/ngonar/Documents/Apple/blimp/Build/Intermediates.noindex/Previews/macos/blimp/ReleaseProducts",
+          "ENABLE_PREVIEWS" : "YES",
+          "ENABLE_XOJIT_PREVIEWS" : "NO",
+          "OBJROOT" : "/Users/ngonar/Documents/Apple/blimp/Build/Intermediates.noindex/Previews/macos/blimp/Intermediates.noindex",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "SYMROOT" : "/Users/ngonar/Documents/Apple/blimp/Build/Intermediates.noindex/Previews/macos/blimp/Products"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

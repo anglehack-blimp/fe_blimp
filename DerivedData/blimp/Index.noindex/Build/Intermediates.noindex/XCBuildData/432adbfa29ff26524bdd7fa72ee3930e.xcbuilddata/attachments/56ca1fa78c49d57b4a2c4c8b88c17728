@@ -1,0 +1,27 @@
+{
+  "" : {
+    "dependencies" : "/Users/ngonar/Documents/Apple/blimp/DerivedData/blimp/Index.noindex/Build/Intermediates.noindex/blimp.build/Debug-iphoneos/blimp.build/Objects-normal/arm64/blimp-master.d",
+    "diagnostics" : "/Users/ngonar/Documents/Apple/blimp/DerivedData/blimp/Index.noindex/Build/Intermediates.noindex/blimp.build/Debug-iphoneos/blimp.build/Objects-normal/arm64/blimp-master.dia",
+    "emit-module-dependencies" : "/Users/ngonar/Documents/Apple/blimp/DerivedData/blimp/Index.noindex/Build/Intermediates.noindex/blimp.build/Debug-iphoneos/blimp.build/Objects-normal/arm64/blimp-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/ngonar/Documents/Apple/blimp/DerivedData/blimp/Index.noindex/Build/Intermediates.noindex/blimp.build/Debug-iphoneos/blimp.build/Objects-normal/arm64/blimp-master-emit-module.dia",
+    "swift-dependencies" : "/Users/ngonar/Documents/Apple/blimp/DerivedData/blimp/Index.noindex/Build/Intermediates.noindex/blimp.build/Debug-iphoneos/blimp.build/Objects-normal/arm64/blimp-master.swiftdeps"
+  },
+  "/Users/ngonar/Documents/Apple/blimp/blimp/blimpApp.swift" : {
+
+  },
+  "/Users/ngonar/Documents/Apple/blimp/blimp/ContentView.swift" : {
+
+  },
+  "/Users/ngonar/Documents/Apple/blimp/blimp/Menu.swift" : {
+
+  },
+  "/Users/ngonar/Documents/Apple/blimp/blimp/SearchView.swift" : {
+
+  },
+  "/Users/ngonar/Documents/Apple/blimp/blimp/StoreSummary.swift" : {
+
+  },
+  "/Users/ngonar/Documents/Apple/blimp/DerivedData/blimp/Index.noindex/Build/Intermediates.noindex/blimp.build/Debug-iphoneos/blimp.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+
+  }
+}

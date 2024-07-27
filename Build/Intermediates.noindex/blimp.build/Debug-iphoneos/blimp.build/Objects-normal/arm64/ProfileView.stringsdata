@@ -1,0 +1,24 @@
+{
+  "source": "/Users/ngonar/Documents/Apple/blimp/blimp/ProfileView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Profile"
+      },
+      {
+        "comment": "",
+        "key": "User A"
+      },
+      {
+        "comment": "",
+        "key": "Toko Kita"
+      },
+      {
+        "comment": "",
+        "key": "Logout"
+      }
+    ]
+  },
+  "version": 1
+}

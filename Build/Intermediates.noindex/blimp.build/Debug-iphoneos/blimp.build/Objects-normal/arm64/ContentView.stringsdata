@@ -1,0 +1,16 @@
+{
+  "source": "/Users/ngonar/Documents/Apple/blimp/blimp/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Home"
+      },
+      {
+        "comment": "",
+        "key": "Profile"
+      }
+    ]
+  },
+  "version": 1
+}
