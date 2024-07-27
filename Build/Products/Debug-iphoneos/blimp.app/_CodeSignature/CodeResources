@@ -4,13 +4,21 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<data>
+		7wk4ZTFEOZ6DKMJgsQDGdJnrq0o=
+		</data>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<data>
+		2xeJz96PaQW17/shKnQW/XBbQbg=
+		</data>
 		<key>Assets.car</key>
 		<data>
-		ODqW2yK7UcxbsZRxJpSGcimA0Mk=
+		3qbisO46tvhqGvE6Jpce3CEMR5k=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		Hdz4b2OSDWXTFUpxrNXHJAN3k2g=
+		dMm1tYksO8P5Nwl5QE1UyCmIITs=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -39,11 +47,25 @@
 	</dict>
 	<key>files2</key>
 	<dict>
+		<key>AppIcon60x60@2x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GVUmWrRlgBgMjYLf20MOY/vKMfrRtkseYDFkYkFrijo=
+			</data>
+		</dict>
+		<key>AppIcon76x76@2x~ipad.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tROQe1N2QHRExlm6oj+JUXcvkHBYnla1FYPQnyDOHyo=
+			</data>
+		</dict>
 		<key>Assets.car</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rBGTUk/S8z4DkoJ1tXPf5SzCpDjWvRjEpsl8GknjHMQ=
+			bhVe3MPRy0LtkAZ6ebzDUmwZEGV0mO3hnQ9Fh/t6lzQ=
 			</data>
 		</dict>
 		<key>chair_swan.usdz</key>

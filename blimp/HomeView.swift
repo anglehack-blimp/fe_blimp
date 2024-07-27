@@ -16,6 +16,7 @@ struct HomeView: View {
     
     @State private var searchText = ""
     @State private var isSearching = false
+    @State private var isCart = false
     
     private static let initialColumns = 3
     
@@ -28,6 +29,7 @@ struct HomeView: View {
         GridItem(.fixed(150), spacing: 10, alignment: .leading)
     ]
     
+    @State private var action: Int? = 0
     
     @State private var menus: [Menu] = [
         Menu( name: "A", logo: "bag.circle", label: "A", category: "A", obj: "A"),
@@ -117,19 +119,35 @@ struct HomeView: View {
                 ToolbarItem(placement: .navigationBarLeading) {
                     HStack {
                         TextField("Search...", text: $searchText)
-                            .frame(minWidth: UIScreen.main.bounds.size.width-130, maxWidth: .infinity, minHeight: 40)
+                            .frame(minWidth: UIScreen.main.bounds.size.width-160, maxWidth: .infinity, minHeight: 40)
                             
                         NavigationLink("",destination: SearchView(), isActive: $isSearching)
+                        
+                        NavigationLink(destination: MyCart(), tag: 1, selection: $action) {
+                                            EmptyView()
+                                        }
                     }
                 }
                 
                 ToolbarItem(placement: .navigationBarTrailing) {
-                    Button {
-                        print("search")
-                        isSearching = true
+                    HStack {
+                        Button {
+                            print("search")
+                            isSearching = true
+                            
+                        } label : {
+                            Image(systemName: "magnifyingglass")
+                        }
                         
-                    } label : {
-                        Image(systemName: "magnifyingglass")
+                        
+                        Button {
+                            print("cart")
+                            self.action = 1
+                        } label : {
+                            Image(systemName: "cart.fill")
+                        }
+                        
+                        
                     }
                 }
             }

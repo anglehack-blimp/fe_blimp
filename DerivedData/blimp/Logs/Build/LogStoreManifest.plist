@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>00B1BD22-E0A4-4829-B0AB-9AD69995D2D0</key>
+		<key>3ABC59EE-5016-466F-825A-7BB8EF7CB7CE</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,49 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>00B1BD22-E0A4-4829-B0AB-9AD69995D2D0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743795537.90786505</real>
-			<key>timeStoppedRecording</key>
-			<real>743795541.10738301</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>00B1BD22-E0A4-4829-B0AB-9AD69995D2D0</string>
-		</dict>
-		<key>028B6A53-43CB-4051-8FB9-DD4A532FBD0E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>028B6A53-43CB-4051-8FB9-DD4A532FBD0E.xcactivitylog</string>
+			<string>3ABC59EE-5016-466F-825A-7BB8EF7CB7CE.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -67,11 +25,11 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
 				<integer>2</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>blimp project</string>
@@ -82,15 +40,15 @@
 			<key>signature</key>
 			<string>Build blimp</string>
 			<key>timeStartedRecording</key>
-			<real>743797757.13154495</real>
+			<real>743814463.14652097</real>
 			<key>timeStoppedRecording</key>
-			<real>743797758.33425796</real>
+			<real>743814465.579934</real>
 			<key>title</key>
 			<string>Build blimp</string>
 			<key>uniqueIdentifier</key>
-			<string>028B6A53-43CB-4051-8FB9-DD4A532FBD0E</string>
+			<string>3ABC59EE-5016-466F-825A-7BB8EF7CB7CE</string>
 		</dict>
-		<key>03A8CD8C-2389-4E13-9583-50D18EE4ACD7</key>
+		<key>86C8B3BE-8B42-4B91-94F3-3C79173946FA</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -99,343 +57,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>03A8CD8C-2389-4E13-9583-50D18EE4ACD7.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743795139.79136503</real>
-			<key>timeStoppedRecording</key>
-			<real>743795141.895625</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>03A8CD8C-2389-4E13-9583-50D18EE4ACD7</string>
-		</dict>
-		<key>0AF00BBC-8FF5-4AB1-87E9-5FB3BDF1A8B0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>0AF00BBC-8FF5-4AB1-87E9-5FB3BDF1A8B0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>8</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743798121.46895504</real>
-			<key>timeStoppedRecording</key>
-			<real>743798122.386935</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>0AF00BBC-8FF5-4AB1-87E9-5FB3BDF1A8B0</string>
-		</dict>
-		<key>0F3121F8-96D5-48C6-9F18-08A4B129C670</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>0F3121F8-96D5-48C6-9F18-08A4B129C670.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743802206.10292196</real>
-			<key>timeStoppedRecording</key>
-			<real>743802214.00865805</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>0F3121F8-96D5-48C6-9F18-08A4B129C670</string>
-		</dict>
-		<key>11E9FEC3-C2E6-4931-8CB4-A1B88251B8F1</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>11E9FEC3-C2E6-4931-8CB4-A1B88251B8F1.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743802924.20549297</real>
-			<key>timeStoppedRecording</key>
-			<real>743802929.09205306</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>11E9FEC3-C2E6-4931-8CB4-A1B88251B8F1</string>
-		</dict>
-		<key>142695DB-4C4C-4B8C-9AA6-E7301EDFFEDD</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>142695DB-4C4C-4B8C-9AA6-E7301EDFFEDD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743797372.63960397</real>
-			<key>timeStoppedRecording</key>
-			<real>743797375.03270102</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>142695DB-4C4C-4B8C-9AA6-E7301EDFFEDD</string>
-		</dict>
-		<key>16DB5FA0-7CCE-4434-931B-875D1ADBD0E0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>16DB5FA0-7CCE-4434-931B-875D1ADBD0E0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743794691.87308896</real>
-			<key>timeStoppedRecording</key>
-			<real>743794694.37840605</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>16DB5FA0-7CCE-4434-931B-875D1ADBD0E0</string>
-		</dict>
-		<key>1A4B68D6-9341-4148-AA2E-CE60CD5F04E4</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>1A4B68D6-9341-4148-AA2E-CE60CD5F04E4.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743798539.09513903</real>
-			<key>timeStoppedRecording</key>
-			<real>743798544.59383905</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>1A4B68D6-9341-4148-AA2E-CE60CD5F04E4</string>
-		</dict>
-		<key>229B33CC-9332-4062-9111-963D3FEEE65E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>229B33CC-9332-4062-9111-963D3FEEE65E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743802969.11292195</real>
-			<key>timeStoppedRecording</key>
-			<real>743802971.19445705</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>229B33CC-9332-4062-9111-963D3FEEE65E</string>
-		</dict>
-		<key>25A02FA4-AEDF-4527-8590-74060593F331</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>25A02FA4-AEDF-4527-8590-74060593F331.xcactivitylog</string>
+			<string>86C8B3BE-8B42-4B91-94F3-3C79173946FA.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -460,15 +82,15 @@
 			<key>signature</key>
 			<string>Build blimp</string>
 			<key>timeStartedRecording</key>
-			<real>743797285.41429102</real>
+			<real>743813799.22106898</real>
 			<key>timeStoppedRecording</key>
-			<real>743797336.33356702</real>
+			<real>743813799.57182002</real>
 			<key>title</key>
 			<string>Build blimp</string>
 			<key>uniqueIdentifier</key>
-			<string>25A02FA4-AEDF-4527-8590-74060593F331</string>
+			<string>86C8B3BE-8B42-4B91-94F3-3C79173946FA</string>
 		</dict>
-		<key>2C3F03AE-C799-4AF5-9043-8FBEA76408AD</key>
+		<key>9585130A-9655-4680-A67D-746A1E51C3C3</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -477,805 +99,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>2C3F03AE-C799-4AF5-9043-8FBEA76408AD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743794561.79046297</real>
-			<key>timeStoppedRecording</key>
-			<real>743794563.91789103</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>2C3F03AE-C799-4AF5-9043-8FBEA76408AD</string>
-		</dict>
-		<key>32006D9A-D319-4C81-A2EC-A4CC581B94A0</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>32006D9A-D319-4C81-A2EC-A4CC581B94A0.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743798138.56273401</real>
-			<key>timeStoppedRecording</key>
-			<real>743798139.74958205</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>32006D9A-D319-4C81-A2EC-A4CC581B94A0</string>
-		</dict>
-		<key>3A1494D8-E8C1-4335-ACB3-8B6E04504028</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3A1494D8-E8C1-4335-ACB3-8B6E04504028.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743802662.90644395</real>
-			<key>timeStoppedRecording</key>
-			<real>743802664.82254398</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>3A1494D8-E8C1-4335-ACB3-8B6E04504028</string>
-		</dict>
-		<key>3A3774E7-8685-4D8F-8701-66AB66C8508E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>3A3774E7-8685-4D8F-8701-66AB66C8508E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>2</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743797581.05918205</real>
-			<key>timeStoppedRecording</key>
-			<real>743797587.368258</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>3A3774E7-8685-4D8F-8701-66AB66C8508E</string>
-		</dict>
-		<key>44BF5871-80B4-44B9-AC01-9FEDC0DFC6C9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>44BF5871-80B4-44B9-AC01-9FEDC0DFC6C9.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743798610.83977497</real>
-			<key>timeStoppedRecording</key>
-			<real>743798613.08179796</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>44BF5871-80B4-44B9-AC01-9FEDC0DFC6C9</string>
-		</dict>
-		<key>4D64A0EB-BEF9-41D9-BE3C-AE2F87404A23</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>4D64A0EB-BEF9-41D9-BE3C-AE2F87404A23.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>2</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743794189.77958596</real>
-			<key>timeStoppedRecording</key>
-			<real>743794192.27728701</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>4D64A0EB-BEF9-41D9-BE3C-AE2F87404A23</string>
-		</dict>
-		<key>522A4BBA-AE9D-40E0-9D46-81A9050D25BA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>522A4BBA-AE9D-40E0-9D46-81A9050D25BA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743794436.72094202</real>
-			<key>timeStoppedRecording</key>
-			<real>743794438.75312102</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>522A4BBA-AE9D-40E0-9D46-81A9050D25BA</string>
-		</dict>
-		<key>54CB8E6D-85D5-496B-A648-D49E1DEE7723</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>54CB8E6D-85D5-496B-A648-D49E1DEE7723.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>3</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743797820.47926605</real>
-			<key>timeStoppedRecording</key>
-			<real>743797822.89752603</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>54CB8E6D-85D5-496B-A648-D49E1DEE7723</string>
-		</dict>
-		<key>63FF81F7-009F-4FB9-AE3E-90AE86BFBA17</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>63FF81F7-009F-4FB9-AE3E-90AE86BFBA17.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743796883.671381</real>
-			<key>timeStoppedRecording</key>
-			<real>743796885.574929</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>63FF81F7-009F-4FB9-AE3E-90AE86BFBA17</string>
-		</dict>
-		<key>7C777ECA-39EA-41CC-A3C7-295E98AFFB7C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7C777ECA-39EA-41CC-A3C7-295E98AFFB7C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>2</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743797807.02371395</real>
-			<key>timeStoppedRecording</key>
-			<real>743797807.52062404</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>7C777ECA-39EA-41CC-A3C7-295E98AFFB7C</string>
-		</dict>
-		<key>7C9028CE-E354-4FDB-8EC2-BABE96CAA9A3</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>7C9028CE-E354-4FDB-8EC2-BABE96CAA9A3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743802574.70164597</real>
-			<key>timeStoppedRecording</key>
-			<real>743802574.808725</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>7C9028CE-E354-4FDB-8EC2-BABE96CAA9A3</string>
-		</dict>
-		<key>8325B515-691F-4D18-9413-AE4B4FF899DD</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>8325B515-691F-4D18-9413-AE4B4FF899DD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743796935.72654104</real>
-			<key>timeStoppedRecording</key>
-			<real>743796937.54658902</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>8325B515-691F-4D18-9413-AE4B4FF899DD</string>
-		</dict>
-		<key>9CFDBE3F-B9BF-4DE0-83AD-BBA19E17550E</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>9CFDBE3F-B9BF-4DE0-83AD-BBA19E17550E.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743796839.96348202</real>
-			<key>timeStoppedRecording</key>
-			<real>743796841.79883301</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>9CFDBE3F-B9BF-4DE0-83AD-BBA19E17550E</string>
-		</dict>
-		<key>A1066AB0-8960-4434-ACB4-C13228667F73</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A1066AB0-8960-4434-ACB4-C13228667F73.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743802485.48772001</real>
-			<key>timeStoppedRecording</key>
-			<real>743802488.63522506</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>A1066AB0-8960-4434-ACB4-C13228667F73</string>
-		</dict>
-		<key>A118F286-2D2A-4C60-958A-F92AC6F773B6</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>A118F286-2D2A-4C60-958A-F92AC6F773B6.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>2</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743797604.954409</real>
-			<key>timeStoppedRecording</key>
-			<real>743797605.82213604</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>A118F286-2D2A-4C60-958A-F92AC6F773B6</string>
-		</dict>
-		<key>AB79A446-7545-4846-9308-E9013363167B</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>AB79A446-7545-4846-9308-E9013363167B.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>E</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>1</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743797208.54358995</real>
-			<key>timeStoppedRecording</key>
-			<real>743797281.032897</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>AB79A446-7545-4846-9308-E9013363167B</string>
-		</dict>
-		<key>AB96FC10-52FA-4F3F-B575-865FE898C6BA</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>AB96FC10-52FA-4F3F-B575-865FE898C6BA.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743795891.93902397</real>
-			<key>timeStoppedRecording</key>
-			<real>743795894.73588598</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>AB96FC10-52FA-4F3F-B575-865FE898C6BA</string>
-		</dict>
-		<key>B4D779BF-B117-4641-90DD-16D02C895D18</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B4D779BF-B117-4641-90DD-16D02C895D18.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743796788.84913898</real>
-			<key>timeStoppedRecording</key>
-			<real>743796792.34225202</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>B4D779BF-B117-4641-90DD-16D02C895D18</string>
-		</dict>
-		<key>B857B16D-66E5-472B-A1F7-409D7A6B84C3</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>B857B16D-66E5-472B-A1F7-409D7A6B84C3.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743796152.74199104</real>
-			<key>timeStoppedRecording</key>
-			<real>743796155.23755705</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>B857B16D-66E5-472B-A1F7-409D7A6B84C3</string>
-		</dict>
-		<key>BCFF3339-553E-4925-AC67-D5F619A6E97C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>BCFF3339-553E-4925-AC67-D5F619A6E97C.xcactivitylog</string>
+			<string>9585130A-9655-4680-A67D-746A1E51C3C3.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1300,15 +124,15 @@
 			<key>signature</key>
 			<string>Build blimp</string>
 			<key>timeStartedRecording</key>
-			<real>743797065.60371697</real>
+			<real>743814764.14676797</real>
 			<key>timeStoppedRecording</key>
-			<real>743797068.03912604</real>
+			<real>743814771.42642701</real>
 			<key>title</key>
 			<string>Build blimp</string>
 			<key>uniqueIdentifier</key>
-			<string>BCFF3339-553E-4925-AC67-D5F619A6E97C</string>
+			<string>9585130A-9655-4680-A67D-746A1E51C3C3</string>
 		</dict>
-		<key>CD442675-B5BF-452B-8DD3-0D763F76F755</key>
+		<key>9EBF9706-D9D4-472F-BB49-10AA6F5FA0E8</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1317,7 +141,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>CD442675-B5BF-452B-8DD3-0D763F76F755.xcactivitylog</string>
+			<string>9EBF9706-D9D4-472F-BB49-10AA6F5FA0E8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1331,7 +155,7 @@
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
+				<integer>2</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>blimp project</string>
@@ -1342,15 +166,15 @@
 			<key>signature</key>
 			<string>Build blimp</string>
 			<key>timeStartedRecording</key>
-			<real>743794963.24666703</real>
+			<real>743814491.82584298</real>
 			<key>timeStoppedRecording</key>
-			<real>743794965.11040699</real>
+			<real>743814493.865183</real>
 			<key>title</key>
 			<string>Build blimp</string>
 			<key>uniqueIdentifier</key>
-			<string>CD442675-B5BF-452B-8DD3-0D763F76F755</string>
+			<string>9EBF9706-D9D4-472F-BB49-10AA6F5FA0E8</string>
 		</dict>
-		<key>D01B8F52-D73B-431C-810A-CC77EEC4957F</key>
+		<key>AFED81C0-737F-4E32-A68A-460460F62251</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1359,133 +183,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>D01B8F52-D73B-431C-810A-CC77EEC4957F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743794635.06258094</real>
-			<key>timeStoppedRecording</key>
-			<real>743794637.26319802</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>D01B8F52-D73B-431C-810A-CC77EEC4957F</string>
-		</dict>
-		<key>D84441B5-2269-44B1-B5DB-44EEA9560F37</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>D84441B5-2269-44B1-B5DB-44EEA9560F37.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743794273.51934397</real>
-			<key>timeStoppedRecording</key>
-			<real>743794284.28548801</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>D84441B5-2269-44B1-B5DB-44EEA9560F37</string>
-		</dict>
-		<key>DBCADE91-E907-49F2-B91D-2ECFB7CE7047</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DBCADE91-E907-49F2-B91D-2ECFB7CE7047.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743798267.21962702</real>
-			<key>timeStoppedRecording</key>
-			<real>743798277.62085998</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>DBCADE91-E907-49F2-B91D-2ECFB7CE7047</string>
-		</dict>
-		<key>DC766830-4E96-48E3-BD2D-6DFB0C44031F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>DC766830-4E96-48E3-BD2D-6DFB0C44031F.xcactivitylog</string>
+			<string>AFED81C0-737F-4E32-A68A-460460F62251.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1495,11 +193,11 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
+				<integer>1</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
 				<integer>2</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>blimp project</string>
@@ -1510,15 +208,15 @@
 			<key>signature</key>
 			<string>Build blimp</string>
 			<key>timeStartedRecording</key>
-			<real>743797797.22737098</real>
+			<real>743813724.17742705</real>
 			<key>timeStoppedRecording</key>
-			<real>743797798.27031803</real>
+			<real>743813732.21588099</real>
 			<key>title</key>
 			<string>Build blimp</string>
 			<key>uniqueIdentifier</key>
-			<string>DC766830-4E96-48E3-BD2D-6DFB0C44031F</string>
+			<string>AFED81C0-737F-4E32-A68A-460460F62251</string>
 		</dict>
-		<key>E02D5CE5-5CDF-40E3-8C98-2CEE8D163415</key>
+		<key>B6A41245-203F-4688-953F-8E7182E72EE1</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1527,7 +225,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E02D5CE5-5CDF-40E3-8C98-2CEE8D163415.xcactivitylog</string>
+			<string>B6A41245-203F-4688-953F-8E7182E72EE1.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1541,7 +239,7 @@
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
+				<integer>2</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>blimp project</string>
@@ -1552,15 +250,15 @@
 			<key>signature</key>
 			<string>Build blimp</string>
 			<key>timeStartedRecording</key>
-			<real>743794842.78457701</real>
+			<real>743814260.37167501</real>
 			<key>timeStoppedRecording</key>
-			<real>743794845.38200796</real>
+			<real>743814266.45042396</real>
 			<key>title</key>
 			<string>Build blimp</string>
 			<key>uniqueIdentifier</key>
-			<string>E02D5CE5-5CDF-40E3-8C98-2CEE8D163415</string>
+			<string>B6A41245-203F-4688-953F-8E7182E72EE1</string>
 		</dict>
-		<key>E051E8C2-FEAF-45FC-ADBD-134B3D88B2AB</key>
+		<key>F80AF4A9-1C5D-41D2-8DF2-E8A5253DB718</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -1569,217 +267,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
 			<key>fileName</key>
-			<string>E051E8C2-FEAF-45FC-ADBD-134B3D88B2AB.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743794377.65007496</real>
-			<key>timeStoppedRecording</key>
-			<real>743794380.48717904</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>E051E8C2-FEAF-45FC-ADBD-134B3D88B2AB</string>
-		</dict>
-		<key>ED485EEE-677A-4091-8CBF-A380EB507593</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>ED485EEE-677A-4091-8CBF-A380EB507593.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743795015.035267</real>
-			<key>timeStoppedRecording</key>
-			<real>743795016.793419</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>ED485EEE-677A-4091-8CBF-A380EB507593</string>
-		</dict>
-		<key>F7A7023E-1499-42C5-84B5-C297F23E917F</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F7A7023E-1499-42C5-84B5-C297F23E917F.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743794391.06287599</real>
-			<key>timeStoppedRecording</key>
-			<real>743794393.08462298</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>F7A7023E-1499-42C5-84B5-C297F23E917F</string>
-		</dict>
-		<key>F7ECDCCC-202D-4282-A57B-DA5C259F56DD</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F7ECDCCC-202D-4282-A57B-DA5C259F56DD.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>S</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743797953.87809706</real>
-			<key>timeStoppedRecording</key>
-			<real>743797958.37198305</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>F7ECDCCC-202D-4282-A57B-DA5C259F56DD</string>
-		</dict>
-		<key>F89F23AF-C9DF-4FDB-AE11-3AE760EC3A6C</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F89F23AF-C9DF-4FDB-AE11-3AE760EC3A6C.xcactivitylog</string>
-			<key>hasPrimaryLog</key>
-			<true/>
-			<key>primaryObservable</key>
-			<dict>
-				<key>highLevelStatus</key>
-				<string>W</string>
-				<key>totalNumberOfAnalyzerIssues</key>
-				<integer>0</integer>
-				<key>totalNumberOfErrors</key>
-				<integer>0</integer>
-				<key>totalNumberOfTestFailures</key>
-				<integer>0</integer>
-				<key>totalNumberOfWarnings</key>
-				<integer>1</integer>
-			</dict>
-			<key>schemeIdentifier-containerName</key>
-			<string>blimp project</string>
-			<key>schemeIdentifier-schemeName</key>
-			<string>blimp</string>
-			<key>schemeIdentifier-sharedScheme</key>
-			<integer>1</integer>
-			<key>signature</key>
-			<string>Build blimp</string>
-			<key>timeStartedRecording</key>
-			<real>743797421.702214</real>
-			<key>timeStoppedRecording</key>
-			<real>743797423.10738003</real>
-			<key>title</key>
-			<string>Build blimp</string>
-			<key>uniqueIdentifier</key>
-			<string>F89F23AF-C9DF-4FDB-AE11-3AE760EC3A6C</string>
-		</dict>
-		<key>F9E6943A-F9A0-475F-B705-3011076F2CD9</key>
-		<dict>
-			<key>className</key>
-			<string>IDEActivityLogSection</string>
-			<key>documentTypeString</key>
-			<string>&lt;nil&gt;</string>
-			<key>domainType</key>
-			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
-			<key>fileName</key>
-			<string>F9E6943A-F9A0-475F-B705-3011076F2CD9.xcactivitylog</string>
+			<string>F80AF4A9-1C5D-41D2-8DF2-E8A5253DB718.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -1789,11 +277,11 @@
 				<key>totalNumberOfAnalyzerIssues</key>
 				<integer>0</integer>
 				<key>totalNumberOfErrors</key>
-				<integer>2</integer>
+				<integer>1</integer>
 				<key>totalNumberOfTestFailures</key>
 				<integer>0</integer>
 				<key>totalNumberOfWarnings</key>
-				<integer>0</integer>
+				<integer>1</integer>
 			</dict>
 			<key>schemeIdentifier-containerName</key>
 			<string>blimp project</string>
@@ -1804,13 +292,13 @@
 			<key>signature</key>
 			<string>Build blimp</string>
 			<key>timeStartedRecording</key>
-			<real>743797712.738217</real>
+			<real>743814418.83071601</real>
 			<key>timeStoppedRecording</key>
-			<real>743797713.60398102</real>
+			<real>743814419.27356303</real>
 			<key>title</key>
 			<string>Build blimp</string>
 			<key>uniqueIdentifier</key>
-			<string>F9E6943A-F9A0-475F-B705-3011076F2CD9</string>
+			<string>F80AF4A9-1C5D-41D2-8DF2-E8A5253DB718</string>
 		</dict>
 	</dict>
 </dict>

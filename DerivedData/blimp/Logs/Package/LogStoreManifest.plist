@@ -6,7 +6,7 @@
 	<integer>11</integer>
 	<key>logs</key>
 	<dict>
-		<key>18984077-EC71-44C5-8DEC-403DCAC590E3</key>
+		<key>375CBE43-95D9-426B-A48B-891D76684001</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -15,7 +15,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>18984077-EC71-44C5-8DEC-403DCAC590E3.xcactivitylog</string>
+			<string>375CBE43-95D9-426B-A48B-891D76684001.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -34,15 +34,15 @@
 			<key>signature</key>
 			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>743798225.53993905</real>
+			<real>743813784.59053504</real>
 			<key>timeStoppedRecording</key>
-			<real>743798226.37220001</real>
+			<real>743813784.789083</real>
 			<key>title</key>
 			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>18984077-EC71-44C5-8DEC-403DCAC590E3</string>
+			<string>375CBE43-95D9-426B-A48B-891D76684001</string>
 		</dict>
-		<key>AE77F0FE-F3EC-47D6-99A4-B09B39DDF7F4</key>
+		<key>F4E9056D-F887-4024-A084-6F1B4F4D4EE8</key>
 		<dict>
 			<key>className</key>
 			<string>IDEActivityLogSection</string>
@@ -51,7 +51,7 @@
 			<key>domainType</key>
 			<string>Xcode.IDEActivityLogDomainType.PackageLog</string>
 			<key>fileName</key>
-			<string>AE77F0FE-F3EC-47D6-99A4-B09B39DDF7F4.xcactivitylog</string>
+			<string>F4E9056D-F887-4024-A084-6F1B4F4D4EE8.xcactivitylog</string>
 			<key>hasPrimaryLog</key>
 			<true/>
 			<key>primaryObservable</key>
@@ -68,15 +68,15 @@
 				<integer>0</integer>
 			</dict>
 			<key>signature</key>
-			<string>Add Package</string>
+			<string>Resolve Packages</string>
 			<key>timeStartedRecording</key>
-			<real>743798217.40177095</real>
+			<real>743813781.18032897</real>
 			<key>timeStoppedRecording</key>
-			<real>743798223.26852298</real>
+			<real>743813782.25927103</real>
 			<key>title</key>
-			<string>Add Package</string>
+			<string>Resolve Packages</string>
 			<key>uniqueIdentifier</key>
-			<string>AE77F0FE-F3EC-47D6-99A4-B09B39DDF7F4</string>
+			<string>F4E9056D-F887-4024-A084-6F1B4F4D4EE8</string>
 		</dict>
 	</dict>
 </dict>

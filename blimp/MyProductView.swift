@@ -30,7 +30,7 @@ struct MyProductView: View {
                             
                                 ForEach (products) { product in
                                     
-                                    NavigationLink(destination: ProductAr()) {
+                                    NavigationLink(destination: ProductDetailView()) {
                                         VStack(alignment: .leading) {
                                             ZStack(alignment: .top) {
                                                 Image(systemName: product.logo)

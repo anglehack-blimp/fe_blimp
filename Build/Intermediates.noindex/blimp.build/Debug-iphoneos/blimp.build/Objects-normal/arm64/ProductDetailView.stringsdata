@@ -1,0 +1,64 @@
+{
+  "source": "/Users/ngonar/Documents/Apple/blimp/blimp/ProductDetailView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Product Information"
+      },
+      {
+        "comment": "",
+        "key": "Product Name"
+      },
+      {
+        "comment": "",
+        "key": "ex. Honda CRV 2015"
+      },
+      {
+        "comment": "",
+        "key": "Product Description"
+      },
+      {
+        "comment": "",
+        "key": "ex. Kendaraan Roda 4"
+      },
+      {
+        "comment": "",
+        "key": "Product Image"
+      },
+      {
+        "comment": "",
+        "key": "ex. IMG.png"
+      },
+      {
+        "comment": "",
+        "key": "Product Video"
+      },
+      {
+        "comment": "",
+        "key": "ex. video.mp4"
+      },
+      {
+        "comment": "",
+        "key": "Product Price"
+      },
+      {
+        "comment": "",
+        "key": "ex. 10.000.000"
+      },
+      {
+        "comment": "",
+        "key": "Product Qty"
+      },
+      {
+        "comment": "",
+        "key": "ex. 99"
+      },
+      {
+        "comment": "",
+        "key": "Save Data"
+      }
+    ]
+  },
+  "version": 1
+}
