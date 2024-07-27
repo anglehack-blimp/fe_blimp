@@ -36,32 +36,32 @@ class _ProductCatalog extends State<ProductCatalog> {
           Container(
             padding: const EdgeInsets.all(8),
             color: Colors.teal[100],
-            child: const Text("He'd have you all unravel at the"),
+            child: const Text("Product 1"),
           ),
           Container(
             padding: const EdgeInsets.all(8),
             color: Colors.teal[200],
-            child: const Text('Heed not the rabble'),
+            child: const Text('Product 2'),
           ),
           Container(
             padding: const EdgeInsets.all(8),
             color: Colors.teal[300],
-            child: const Text('Sound of screams but the'),
+            child: const Text('Product 3'),
           ),
           Container(
             padding: const EdgeInsets.all(8),
             color: Colors.teal[400],
-            child: const Text('Who scream'),
+            child: const Text('Product 4'),
           ),
           Container(
             padding: const EdgeInsets.all(8),
             color: Colors.teal[500],
-            child: const Text('Revolution is coming...'),
+            child: const Text('Product 5'),
           ),
           Container(
             padding: const EdgeInsets.all(8),
             color: Colors.teal[600],
-            child: const Text('Revolution, they...'),
+            child: const Text('Product 6'),
           ),
         ],
       ),

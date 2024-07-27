@@ -1,6 +1,7 @@
 import 'package:blimp/Favorite/view/favorite_view.dart';
 import 'package:blimp/home/bloc/home_bloc.dart';
 import 'package:blimp/home/view/product_catalog.dart';
+import 'package:blimp/home/view/shorts_view.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
@@ -73,6 +74,7 @@ class _HomeView extends State<HomeView> {
                             )
                         ),
                       ),
+                      ShortsView(),
                       ProductCatalog(),
                     ],
                   )),
